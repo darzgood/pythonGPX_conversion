@@ -1,4 +1,6 @@
 venv/
 *.gpx
+!gpxTemplate.gpx
 *.plt
 *.zip
+
