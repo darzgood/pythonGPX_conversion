@@ -1,2 +1,3 @@
 *.gpx linguist-detectable=false
+*.plt linguist-detectable=false
 *.py linguist-detectable=true
