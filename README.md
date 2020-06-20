@@ -4,11 +4,16 @@ Python script to interpolate GPX files using linear or spline interpolation
 
 Interpolates latitude, longitude and elevation at any spatial resolution
 
+# plt2gpx.py
+
+Python script to convert PLT data files to GPX files for interpolation
+
 ## Usage
 
 ### Script
 ```
-usage: gpx_interpolate.py [-h] [-d DEG] [-r RES] FILE [FILE ...]
+usage:  gpx_interpolate.py [-h] [-d DEG] [-r RES] FILE [FILE ...]
+        plt2gpx.py FILE
 
 Interpolate GPX file(s) using linear/spline interpolation
 
